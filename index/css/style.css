@@ -12,3 +12,18 @@ body {
     margin-left: 30%;
     margin-right: 30%;
 }
+h1{
+    font-weight: bold;
+}
+.b1{
+    background-color: #0892D0;
+    font-weight: bold;
+}
+.b2{
+    background-color: #B80000 ;
+    font-weight: bold;
+}
+.b3{
+    background-color: #FFA500;
+    font-weight: bold;
+}
