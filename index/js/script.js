@@ -12,10 +12,9 @@ $(document).ready(function(){
 		var grades = [];
 		$('.grade').each(function(){
 			if($(this).val() == ""){
-				alert("Please complete the required field");
 				return false;
 			}
-			
+
 			grades.push($(this).val());
 		});
 		
