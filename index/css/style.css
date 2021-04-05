@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    left: 50%;
+    text-align: center;
+    background-color: #D3D3D3;
+}
+
+body {
+    margin-top: 350px;
+    background-color: #D3D3D3;
+    margin-left: 30%;
+    margin-right: 30%;
+}
